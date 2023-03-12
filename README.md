@@ -12,3 +12,20 @@
 
 # Azure Deployment
 
+
+<img src="deployment-steps/1.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/2.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/3.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/4.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/5.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/6.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/7.png" alt="workflow" width="70%">
+
+<img src="deployment-steps/8.png" alt="workflow" width="70%">
+
